@@ -1,3 +1,9 @@
+#Get Started with Testing 
+
+In an ideal world, software wouldn’t have any bugs. But the reality is, we make mistakes, requirements get misunderstood, and applications get used in ways that were never anticipated. Testing helps uncover these issues so they can be fixed. The earlier you find bugs, the “cheaper” they are. Once bugs hit the next stages of development (or in the worst case, production) more people and processes get involved to identify and fix them.
+
+There are two types of tests that are commonly performed for Salesforce applications: unit tests and end-to-end tests. Their differences are in their scope and purpose.
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
